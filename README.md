@@ -1,4 +1,6 @@
-# GPA
+## Recordings
+### Presentation: https://youtu.be/AnlUHmIfL20
+### Calendar GUI: https://youtu.be/ZaYfwACp36E
 
 ## Dummy Account ##
 There is a dummy account with some simple example courses.
@@ -115,4 +117,3 @@ The program is saved to a file called “database.ser”. Changes are saved as t
 - No way to get from SemesterView to AccountView (no Back button Implementation)
 - Cannot remove a mark
 - Cannot recommit a mark that was just uncommitted
-
